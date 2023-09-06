@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salar-soltanpoor
-- 👀 I’m interested in STM32,PIC and ESP32
+- 👀 I’m interested in STM32 and ESP32
 - 🌱 I’m currently learning ESP32
 - 💞️ I’m looking to collaborate on microcontroller programming
 - 📫 How to reach me salar.soltanpoor91@yahoo.com
